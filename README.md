@@ -1,3 +1,5 @@
+# FUCKOTRON
+
 This project started a few weeks ago, when I stumbled upon (code adventure)'s "how a computer works"; which is a  must watch in my opinion; regardless of you knowledge level in microelectronics. i had originally watched it when it came out, along with Ben eater's custom CPU series. it picked my interest, and i was now wondering if i could do something of the sort. after writing a really simple brainfuck interpreter(add link to it in the GitHub)in c++ (which still has a few unresolved bug) during a boring lecture it dawned on me that what i needed to build was a custom CPU meant to interpret brainfuck. After testing a few logic gates simulator, including (code adventure)'s, i settled on Logisim-evolution(add link)
 
 For those who don't know, Brainfuck is an esoteric programming language(link); which is an impractical language whose sole purpose is to test the limit of what it means to be a programming language. Brainfuck is by fare the most famous, and one of the oldest, going back to the 70s (link). it's simple commands set makes it the perfect language for a simple beginner project like this one, considering it only has 8 command :
